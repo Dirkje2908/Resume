@@ -1,11 +1,11 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
 
 /* Styles for the body */
 body {
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: 'Caveat';
 	color: #333333;
 	background-color: #42D3FC;
 }
